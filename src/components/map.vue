@@ -23,7 +23,7 @@
             <li class="nav-item" style="margin-left: 20%;">
               <router-link class="nav-link" to="/about" >Contact</router-link>
             </li>
-            <!-- Add more nav items as needed -->
+            
           </ul>
         </div>
       </div>

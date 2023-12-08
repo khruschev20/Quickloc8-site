@@ -1,3 +1,4 @@
+<!--Attempted fix-->
 <template>
   <div id="app">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark custom-navbar">
